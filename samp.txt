@@ -1,1 +1,2 @@
-samp file created
+samp file has been created
+
